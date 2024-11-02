@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../RSI Fitur 1"
+		},
+		{
+			"path": "../../../Fitur RSI"
+		},
+		{
+			"path": "../../../RSI"
+		},
+		{
+			"path": "../../../fitur 1 rsi"
+		}
+	],
+	"settings": {
+		"java.debug.settings.onBuildFailureProceed": true
+	}
+}
